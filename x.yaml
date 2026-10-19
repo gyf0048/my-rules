@@ -5,3 +5,4 @@ payload:
   - DOMAIN,emby.8.net.co            #xiaoya爬虫
   - DOMAIN,emby.raydoom.tk          #xiaoya爬虫
   - DOMAIN,embyxiaoya.laogl.top     #xiaoya爬虫
+  - DOMAIN-SUFFIX,pikpak.site       #pikpak
