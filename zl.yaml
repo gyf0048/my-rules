@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX, ip-api.com                  #ip信息
   #- DOMAIN-SUFFIX, ap-cn01.emby.bangumi.ca     #nya emby
   - DOMAIN, docker.xuanyuan.me                 #docker加速源
-  - DOMAIN, emby.bangumi.ca                    #nya emby
+  #- DOMAIN, emby.bangumi.ca                    #nya emby
   - DOMAIN, aaa.yusen6.ccwu.cc                 #予初emby
   - DOMAIN-SUFFIX, trakt.tv                    #trakt
   - DOMAIN-SUFFIX, goemby.entertang.work       #et emby
