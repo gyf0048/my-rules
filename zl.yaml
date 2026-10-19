@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX, trakt.tv                    #trakt
   - DOMAIN-SUFFIX, goemby.entertang.work       #et emby
   - DOMAIN-SUFFIX, media.nijigem.by            #二次元emby
-  - DOMAIN-SUFFIX, cu.cdn.bgp.yt	             #二次元emby
+  - DOMAIN-SUFFIX, cu.cdn.bgp.yt	            #二次元emby
   #已标注了大部分可直连的地址,遇到无法直连的情况自行调整.
   #XPTV主站-部分地区可以直连自行尝试
   #DOMAIN, infuseku.xyz
