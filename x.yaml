@@ -7,3 +7,4 @@ payload:
   - DOMAIN,embyxiaoya.laogl.top     #xiaoya爬虫
   - DOMAIN-KEYWORD,pikpak       #pikpak
   - DOMAIN-SUFFIX,qichiyu.com      #七尺宇
+  - DOMAIN, emby.bangumi.ca                    #nya emby
