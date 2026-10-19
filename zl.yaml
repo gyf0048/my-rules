@@ -7,6 +7,7 @@ payload:
   - DOMAIN, aaa.yusen6.ccwu.cc
   - DOMAIN-SUFFIX, trakt.tv
   - DOMAIN-SUFFIX, goemby.entertang.work
+  - DOMAIN-SUFFIX, media.nijigem.by
   #已标注了大部分可直连的地址,遇到无法直连的情况自行调整.
   #XPTV主站-部分地区可以直连自行尝试
   #DOMAIN, infuseku.xyz
