@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN,media.emby.pro
-  - DOMAIN,cf.sfcj.org
-  - DOMAIN,emby.younoyes.com
-  - DOMAIN,emby.8.net.co
-  - DOMAIN,emby.raydoom.tk
-  - DOMAIN,embyxiaoya.laogl.top
+  - DOMAIN,media.emby.pro             #飞越emby推流
+  - DOMAIN,cf.sfcj.org               #飞越cf
+  - DOMAIN,emby.younoyes.com         #youno
+  - DOMAIN,emby.8.net.co            #xiaoya爬虫
+  - DOMAIN,emby.raydoom.tk          #xiaoya爬虫
+  - DOMAIN,embyxiaoya.laogl.top     #xiaoya爬虫
